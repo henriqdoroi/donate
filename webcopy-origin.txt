@@ -1,0 +1,60 @@
+Uri: https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=00020126870014br.gov.bcb.pix2565qrcode.fyhub.com.br%2Fqr%2Fv3%2Fat%2Fa60244d7-4436-410f-b7c5-45e2590b98f15204000053039865802BR5925ALIANCA_DO_BEM_SERVICO_SO6009SAO_PAULO62070503***63046D36
+File Name: C:\Downloaded Web Sites\projetoampara.com\v1\create-qr-code\index.htm
+Content Type: image/png
+
+Uri: https://cdn.utmify.com.br/scripts/utms/latest.js
+File Name: C:\Downloaded Web Sites\projetoampara.com\scripts\utms\latest-1.js
+Content Type: text/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;0,9..144,700;0,9..144,800;1,9..144,600&family=Manrope:wght@400;500;600;700;800&display=swap
+File Name: C:\Downloaded Web Sites\projetoampara.com\css2-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/fraunces/v38/6NUh8FyLNQOQZAnv9bYEvDiIdE9Ea92uemAk_WBq8U_9v0c2Wa0K7iN7hzFUPJH58nib1603gg7S2nfgRYIcaRyjDg.ttf
+File Name: C:\Downloaded Web Sites\projetoampara.com\s\fraunces\v38\6NUh8FyLNQOQZAnv9bYEvDiIdE9Ea92uemAk_WBq8U_9v0c2Wa0K7iN7hzFUPJH58nib1603gg7S2nfgRYIcaRyjDg-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/fraunces/v38/6NUh8FyLNQOQZAnv9bYEvDiIdE9Ea92uemAk_WBq8U_9v0c2Wa0K7iN7hzFUPJH58nib1603gg7S2nfgRYIcNxyjDg.ttf
+File Name: C:\Downloaded Web Sites\projetoampara.com\s\fraunces\v38\6NUh8FyLNQOQZAnv9bYEvDiIdE9Ea92uemAk_WBq8U_9v0c2Wa0K7iN7hzFUPJH58nib1603gg7S2nfgRYIcNxyjDg-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/fraunces/v38/6NUh8FyLNQOQZAnv9bYEvDiIdE9Ea92uemAk_WBq8U_9v0c2Wa0K7iN7hzFUPJH58nib1603gg7S2nfgRYIctxujDg.ttf
+File Name: C:\Downloaded Web Sites\projetoampara.com\s\fraunces\v38\6NUh8FyLNQOQZAnv9bYEvDiIdE9Ea92uemAk_WBq8U_9v0c2Wa0K7iN7hzFUPJH58nib1603gg7S2nfgRYIctxujDg-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/fraunces/v38/6NUh8FyLNQOQZAnv9bYEvDiIdE9Ea92uemAk_WBq8U_9v0c2Wa0K7iN7hzFUPJH58nib1603gg7S2nfgRYIcUByjDg.ttf
+File Name: C:\Downloaded Web Sites\projetoampara.com\s\fraunces\v38\6NUh8FyLNQOQZAnv9bYEvDiIdE9Ea92uemAk_WBq8U_9v0c2Wa0K7iN7hzFUPJH58nib1603gg7S2nfgRYIcUByjDg-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/fraunces/v38/6NVf8FyLNQOQZAnv9ZwNjucMHVn85Ni7emAe9lKqZTnbB-gzTK0K1ChJdt9vIVYX9G37lvd9sPEKsxx664UJf1iVSv7W.ttf
+File Name: C:\Downloaded Web Sites\projetoampara.com\s\fraunces\v38\6NVf8FyLNQOQZAnv9ZwNjucMHVn85Ni7emAe9lKqZTnbB-gzTK0K1ChJdt9vIVYX9G37lvd9sPEKsxx664UJf1iVSv7W-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v23/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4aE-_F.ttf
+File Name: C:\Downloaded Web Sites\projetoampara.com\s\manrope\v23\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4aE-_F-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v23/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4jE-_F.ttf
+File Name: C:\Downloaded Web Sites\projetoampara.com\s\manrope\v23\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4jE-_F-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v23/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk59E-_F.ttf
+File Name: C:\Downloaded Web Sites\projetoampara.com\s\manrope\v23\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk59E-_F-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v23/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FO_F.ttf
+File Name: C:\Downloaded Web Sites\projetoampara.com\s\manrope\v23\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FO_F-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v23/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk7PFO_F.ttf
+File Name: C:\Downloaded Web Sites\projetoampara.com\s\manrope\v23\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk7PFO_F-1.ttf
+Content Type: font/ttf
+
+Uri: https://projetoampara.com/miguel/gerarpix/index.php?amount=30&nome=Anonimo&telefone=%2B5511000000000
+File Name: C:\Downloaded Web Sites\projetoampara.com\miguel\gerarpix\index.php.html
+Content Type: text/html
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092
+File Name: C:\Downloaded Web Sites\projetoampara.com\beacon.min.js\vce701823e78c4301a35b7e07294d87301792088814092-1
+Content Type: text/javascript
+
